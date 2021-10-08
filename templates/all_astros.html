@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Now in space:</h1>
+<br>
+<ol>
+{% for astro in all_astros %}
+<li>{{ astro }}</li>
+{% endfor %}
+</ol>
+{% endblock %}

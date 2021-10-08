@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>You choose the space craft named {{ craft_name }}</h1>
+<br>
+<ol>
+{% for astro in astros_on_craft %}
+<li>{{ astro }}</li>
+{% endfor %}
+</ol>
+{% endblock %}

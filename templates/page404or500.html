@@ -1,0 +1,8 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1> Yor request is a little bit invalid  </h1>
+<h2>There was an error: {{ error }}</h2>
+<p>You can see the list of all astronauts that are in space now </p>
+<a href="{{url_for('astro_list')}}">Yes, I want to see it</a>
+{% endblock %}

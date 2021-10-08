@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>You have chosen the file named {{ file_name }}</h1>
+<br>
+<ol>
+{% for line in f %}
+<li>{{ line }}</li>
+{% endfor %}
+</ol>
+{% endblock %}
