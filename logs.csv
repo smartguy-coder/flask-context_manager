@@ -1,0 +1,26 @@
+The function was called:;astro_list;Time the script was executed:;2021-10-07 16:34:34.218728;Execution time (sec):;0.5712699890136719;status:;success
+The function was called:;file_logs_page;Time the script was executed:;2021-10-07 16:36:10.944132;Execution time (sec):;0.00244903564453125;status:;success
+The function was called:;file_logs_page;Time the script was executed:;2021-10-07 16:36:12.978647;Execution time (sec):;0.0004258155822753906;status:;success
+The function was called:;file_logs_page;Time the script was executed:;2021-10-07 16:36:14.823623;Execution time (sec):;0.0001919269561767578;status:;success
+The function was called:;file_print_page;Time the script was executed:;2021-10-07 16:36:33.029027;Execution time (sec):;0.0003643035888671875;status:;success
+The function was called:;file_print_page;Time the script was executed:;2021-10-07 16:36:42.170799;Execution time (sec):;0.00033473968505859375;status:;success
+The function was called:;file_logs_page;Time the script was executed:;2021-10-07 16:36:51.721846;Execution time (sec):;0.0001862049102783203;status:;success
+The function was called:;file_print_page;Time the script was executed:;2021-10-07 16:37:01.034781;Execution time (sec):;2.6941299438476562e-05;status:;Error: FileNotFoundError
+The function was called:;internal_error;Time the script was executed:;2021-10-07 16:37:01.035683;Execution time (sec):;0.00024509429931640625;status:;success
+The function was called:;file_logs_page;Time the script was executed:;2021-10-07 16:37:05.935188;Execution time (sec):;0.00023365020751953125;status:;success
+The function was called:;not_found;Time the script was executed:;2021-10-07 16:37:24.063056;Execution time (sec):;0.00019502639770507812;status:;success
+The function was called:;astro_list_spacecraft;Time the script was executed:;2021-10-07 16:37:57.863052;Execution time (sec):;0.38576340675354004;status:;success
+The function was called:;astro_list_spacecraft;Time the script was executed:;2021-10-07 16:39:00.542232;Execution time (sec):;0.38193345069885254;status:;success
+The function was called:;astro_list_spacecraft;Time the script was executed:;2021-10-07 16:39:12.119776;Execution time (sec):;0.3958733081817627;status:;success
+The function was called:;astro_list_spacecraft;Time the script was executed:;2021-10-07 16:39:35.269097;Execution time (sec):;0.37218213081359863;status:;Error: there was unexpected error
+The function was called:;internal_error;Time the script was executed:;2021-10-07 16:39:35.272504;Execution time (sec):;0.002335786819458008;status:;success
+The function was called:;file_logs_page;Time the script was executed:;2021-10-07 16:39:50.777959;Execution time (sec):;0.002424478530883789;status:;success
+The function was called:;file_print_page;Time the script was executed:;2021-10-07 16:40:06.829021;Execution time (sec):;0.0003542900085449219;status:;success
+The function was called:;file_print_page;Time the script was executed:;2021-10-07 16:53:45.789815;Execution time (sec):;0.13600945472717285;status:;success
+The function was called:;not_found;Time the script was executed:;2021-10-07 16:54:19.121567;Execution time (sec):;0.019089937210083008;status:;success
+The function was called:;not_found;Time the script was executed:;2021-10-07 16:54:19.915623;Execution time (sec):;0.00023293495178222656;status:;success
+The function was called:;astro_list;Time the script was executed:;2021-10-07 16:54:23.500446;Execution time (sec):;0.4370903968811035;status:;success
+The function was called:;internal_error;Time the script was executed:;2021-10-07 16:54:42.469859;Execution time (sec):;0.0065767765045166016;status:;success
+The function was called:;internal_error;Time the script was executed:;2021-10-07 16:55:26.858705;Execution time (sec):;0.00027060508728027344;status:;success
+The function was called:;internal_error;Time the script was executed:;2021-10-07 16:55:29.862819;Execution time (sec):;0.00020885467529296875;status:;success
+The function was called:;internal_error;Time the script was executed:;2021-10-07 16:55:33.021512;Execution time (sec):;0.0003991127014160156;status:;success
